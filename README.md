@@ -1,5 +1,8 @@
 # A simple MERN stack application 
 
+### Change environmment varable
+`change the variable in the .env file to localhost or the port of your instance (e.g. EC2)`
+
 ### Create a network for the docker containers
 
 `docker network create demo`
